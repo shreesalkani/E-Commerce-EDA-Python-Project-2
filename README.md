@@ -37,5 +37,5 @@ The company tends to give out FREE items for purchases occasionally each month
 However, it is not clear what factors contribute to giving out the FREE items to the particular customers
 
 
-Acknowledgements
+Acknowledgement
 Per the UCI Machine Learning Repository, this data was made available by Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
